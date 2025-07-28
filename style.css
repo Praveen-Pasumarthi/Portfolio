@@ -457,3 +457,10 @@ footer {
   100% { background-position: 0% 0%; }
 }
 
+/* Scroll down indicator */
+.scroll-down {
+  margin-top: 40px;
+  font-size: 16px;
+  color: #ff004f;
+  animation: bounce 2s infinite;
+}
